@@ -1,0 +1,15 @@
+body{
+    background-image: url("https://img.freepik.com/free-photo/vivid-blurred-colorful-background_58702-2655.jpg?w=1060&t=st=1683544806~exp=1683545406~hmac=ce0260405a087909258cf6e331a1e681a7054c4f78cbbf8e98838b98be3b2b91");
+    background-size: cover;
+    text-align: center;
+}
+a{
+    display: block;
+    color: black;
+    font-size: 5vh;
+    font-weight: 600;
+    margin-top: 15vh;
+}
+a:hover{
+    color: red;
+}
